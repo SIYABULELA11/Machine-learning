@@ -1,0 +1,5 @@
+Task 2 objective was to build a model that can classify if breast mass is malignant or benign. Theres 1 dataset being used the data.csv.
+The data.csv dataset contains the data that will be used for training and testing the model. 
+The dataset is loaded and preprocessed and splitted accordingly.
+The Report.pdf is a documentation of Task2 entirely and it indicates the steps and approach taken to accomplish this task.
+The pred_model.ipynb is a jupyter notebook containing all the code and markdowns used for this task.
