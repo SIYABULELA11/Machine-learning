@@ -1,0 +1,7 @@
+Task 1 objective was to build a model that can predict survival of passangers from the titanic disaster. Theres 2 datasets being used the train.csv and test.csv datasets.
+The train.csv dataset contains the data that will be used for training the model. 
+The test.csv dataset contains the data that will be used for testing the model.
+Both datasets are loaded and preprocessed splitted by X and Y variables (input and output).
+The Report.pdf is a documentation of Task1 entirely and it indicates the steps and approach taken to accomplish this task.
+The Survivermodel.ipynb is a jupyter notebook containing all the code and markdowns used for this task.
+
